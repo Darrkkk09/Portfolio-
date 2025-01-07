@@ -1,4 +1,4 @@
-/* Universal styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -13,8 +13,8 @@ html, body {
 }
 
 body {
-    background-color: #121212; /* Deep Black */
-    color: #EAEAEA; /* Light Gray */
+    background-color: #121212; 
+    color: #EAEAEA;
     font-family: 'Poppins', sans-serif;
     line-height: 1.6;
     overflow-x: hidden;
